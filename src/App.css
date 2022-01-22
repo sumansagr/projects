@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color:burlywood;
+}
+
+form {
+  /*  text-align: center; */
+  border: 10px solid cadetblue;
+  margin-top: 100px;
+  padding: 50px;
+  width: 250px;
+  height: 70px;
+  border-radius: 20px;
+  margin-left: 400px;
+  background-position: center;
+  background-color : cadetblue;
+  
+}
+input{
+  border-radius: 5px;
+}
+button{
+  border-radius: 5px;
+}
